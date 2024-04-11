@@ -1,0 +1,42 @@
+.page-title {
+	display: block !important;
+	text-align: center;
+	font-size: 2rem;
+	margin-top: 10px;
+	color: rgb(132, 7, 182);
+}
+
+.form-container {
+	width: 400px;
+	margin: auto;
+	margin-top: 2rem;
+}
+
+.title {
+	text-align: center;
+}
+
+.btn button {
+	margin: auto !important;
+	text-align: center !important;
+}
+
+.ui.button {
+	color: red;
+}
+
+.ui.card > .content,
+.ui.cards > .card > .content {
+	flex-grow: 1;
+	border: black solid 1px;
+	background: 0 0;
+	margin: 0;
+	padding: 1em 1em;
+	box-shadow: none;
+	font-size: 1em;
+	border-radius: 0;
+}
+
+button {
+	cursor: pointer;
+}
